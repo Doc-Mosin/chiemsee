@@ -1,5 +1,5 @@
-# chiemsee
-Mission for my Chiemsee Server [GER/EN] Chiemsee-Slightly Modded-1PP
+# DayZ Chiemsee
+This mission is a customized one for my Chiemsee Server [GER/EN] Chiemsee-Slightly Modded-1PP
 
 This mission is for my Chiemsee server. You can find the original here: https://github.com/Tyson89/Mission-Files
 
