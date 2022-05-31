@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<messages>
+    <message>
+        <delay>1</delay>
+        <onconnect>1</onconnect>
+        <text>Welcome to #name // Start 02.06.2022</text>
+    </message>
+    <message>
+        <delay>1</delay>
+        <onconnect>1</onconnect>
+        <text>Support in English and German, Infos, Rules and Suggestions: https://www.dayz.li</text>
+    </message>
+    <message>
+        <delay>1</delay>
+        <onconnect>1</onconnect>
+        <text>Restart: 0, 4, 8, 12, 16 and 20 CEST</text>
+    </message>
+</messages>
